@@ -2,6 +2,9 @@
 using namespace std;
 
 //enum Monedas { UN_CENTIMO, DOS_CENTIMOS, CINCO_CENTIMOS, DIEZ_CENTIMOS, VEINTE_CENTIMOS, MEDIO_EURO, UN_EURO, DOS_EUROS };
+
+//Descomentar el enum y usar en array!
+
 const double valor[] = {0.01, 0.02, 0.05, 0.1, 0.2, 0.5, 1, 2};
 
 int main() {
